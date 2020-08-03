@@ -2,17 +2,17 @@
   "KerlaCaseReport": [
     {
       "id": 1,
-      "Name": "Kerla (കേരളം)",
-      "TotalCases": "1583792",
-      "TotalDeaths": "34968",
-      "TotalRecovered": "1020582",
-      "TotalCaseso": "1.58M",
-      "TotalDeathsw": "34.96K",
-      "TotalRecoveredr": "1.02M",
-      "TotalInc": "52.12K+",
-      "TotalDec": "775+",
-      "TotalRec": "32.55K+",
-      "Condition": "Need to improve"
+      "Namekl": "Kerla (കേരളം)",
+      "TotalCaseskl": "1583792",
+      "TotalDeathskl": "34968",
+      "TotalRecoveredkl": "1020582",
+      "TotalCasesokl": "1.58M",
+      "TotalDeathswkl": "34.96K",
+      "TotalRecoveredrkl": "1.02M",
+      "TotalInckl": "52.12K+",
+      "TotalDeckl": "775+",
+      "TotalReckl": "32.55K+",
+      "Conditionkl": "Need to improve"
     }
   ]
 }
